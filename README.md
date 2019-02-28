@@ -1,1 +1,1 @@
-Live Demo <a target="_blank" href="https://bilalmalik10.github.io/Chat_Bot/Cinepax_Bot/index.html">Click Here</a>.
+Live Demo <a target="_blank" href="https://mecurialminds.github.io/CareWiz-Cinema-Bot/index.html">Click Here</a>.
